@@ -1,0 +1,7 @@
+C:\Users\HP\Desktop\L3GLRS\S5\csharp\GestionCommandes\obj\Debug\net8.0\GestionCommandes..GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\HP\Desktop\L3GLRS\S5\csharp\GestionCommandes\obj\Debug\net8.0\GestionCommandes..AssemblyInfoInputs.cache
+C:\Users\HP\Desktop\L3GLRS\S5\csharp\GestionCommandes\obj\Debug\net8.0\GestionCommandes..AssemblyInfo.cs
+C:\Users\HP\Desktop\L3GLRS\S5\csharp\GestionCommandes\obj\Debug\net8.0\GestionCommandes..csproj.CoreCompileInputs.cache
+C:\Users\HP\Desktop\L3GLRS\S5\csharp\GestionCommandes\obj\Debug\net8.0\GestionCommandes..MvcApplicationPartsAssemblyInfo.cache
+C:\Users\HP\Desktop\L3GLRS\S5\csharp\GestionCommandes\obj\Debug\net8.0\GestionCommandes..RazorAssemblyInfo.cache
+C:\Users\HP\Desktop\L3GLRS\S5\csharp\GestionCommandes\obj\Debug\net8.0\GestionCommandes..RazorAssemblyInfo.cs
